@@ -10,7 +10,7 @@ public class SwitchCaseInJava {
 		int a=20; 
 		int b=30;
 		int c=0;
-		switch (key2key) {
+		switch (key) {
 		case 1: {
 			c=a+b;
 			System.out.println("addition="+c);	
