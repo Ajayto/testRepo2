@@ -25,8 +25,8 @@ public class Variable {
 	  int b=30;	
 	  int a=20;  /// local variable	
 	  System.out.println(a);
-	  //System.out.println("here ie method m1 ="+c);
-	  System.out.println("and here is aslo method m1="+s);
+	  //System.out.println("this is method m1="+c);
+	  System.out.println("this is again in side method 1="+s);
 	}
 	
 	void m2() {
